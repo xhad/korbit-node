@@ -6,13 +6,18 @@
   "author": "KOO JAE SEUNG",
   "homepage": "https://www.korbit.co.kr",
   "dependencies": {
-    "lodash": "1.x",
+    "lodash": "4.17.5",
     "needle": "0.10.x"
   },
-  "keywords": ["korbit", "korbit-sdk"],
+  "keywords": [
+    "korbit",
+    "korbit-sdk"
+  ],
   "repository": "",
-  "licenses": [{
-    "type": "MIT",
-    "url": "http://opensource.org/licenses/MIT"
-  }]
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
 }
